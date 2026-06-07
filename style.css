@@ -1,0 +1,41 @@
+
+body{
+    background-color:rgb(202, 210, 197) ;
+}
+h1{
+    color:rgb(47, 62, 70);
+    text-align:left
+}
+    .myCheckbox {
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+    appearance: none;
+    border: 2px solid gray;
+    border-radius: 5px;
+    background-color: rgb(202, 210, 197);
+    cursor: pointer;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.myCheckbox:checked {
+    background-color:rgb(202, 210, 197);
+    border-color: black;
+}
+
+.myCheckbox:checked::after {
+    content: "\2714";
+    color: black;
+    font-size: 16px;
+}
+
+.myText {
+    vertical-align: middle;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-size: 20px;
+}
+
