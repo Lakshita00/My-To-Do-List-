@@ -6,6 +6,8 @@ It is a simple Task Mangaer built with HTML,CSS and JavaScript.
 - Mark tasks as complete
 - Data saved in localStorage
 - <br>
+![Screenshot](screenshot.png)
+
 ## Built with
 - HTML5
 - CSS3
