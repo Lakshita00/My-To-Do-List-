@@ -15,7 +15,7 @@ It is a simple Task Mangaer built with HTML,CSS and JavaScript.
    git clone https://github.com/Lakshita00/My-To-Do-List.git
 2. Open index.html in your browser
 ## Live demo
-https://Lakshita00.github.io/My-To-Do-List
+https://Lakshita00.github.io/My-To-Do-List-/
 ## What I learned
 - How CSS flexbox affects layout
 - How to use localStorage to persist data
